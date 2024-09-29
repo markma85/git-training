@@ -3,8 +3,8 @@
 - git init
 - git clone [URL]
 - git add
-  - git add --
-  - git add -a
+  - git add [file-name]
+  - git add -A
 - git commit -m "Your commit message"
 - git status
 - git log
