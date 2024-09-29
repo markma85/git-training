@@ -1,5 +1,6 @@
 # Git-CLI commands exercise
 ## Basic commands
+[Git Commands Doc](https://git-scm.com/docs)
 - git init
     初始化新的Git仓库
 - git clone [URL]
