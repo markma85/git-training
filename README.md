@@ -7,6 +7,8 @@
 - git add
   - git add [file-name]
   - git add -A
+  - git add .
+  - git add --all
 - git commit -m "Your commit message"
   - 提交更改并标注修改内容
 - git status
