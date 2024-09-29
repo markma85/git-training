@@ -5,6 +5,8 @@
 - git add
   - git add [file-name]
   - git add -A
+  - git add .
+  - git add --all
 - git commit -m "Your commit message"
 - git status
 - git log
