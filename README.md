@@ -15,6 +15,7 @@
   - 查看当前git header变化状态
 - git log
   - 查看提交历史
+  - --all --decorate --oneline --graph 图形化显示history
 - git push
   - 将本地更改推送到远程仓库
 - git branch
